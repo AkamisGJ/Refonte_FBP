@@ -1,0 +1,104 @@
+
+sunwukong.png
+size: 1660,697
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+banniere
+  rotate: false
+  xy: 866, 17
+  size: 156, 363
+  orig: 156, 363
+  offset: 0, 0
+  index: -1
+bras droit
+  rotate: true
+  xy: 1024, 26
+  size: 117, 148
+  orig: 117, 148
+  offset: 0, 0
+  index: -1
+bras gauche
+  rotate: true
+  xy: 1174, 2
+  size: 76, 119
+  orig: 76, 119
+  offset: 0, 0
+  index: -1
+cape
+  rotate: false
+  xy: 1197, 183
+  size: 173, 197
+  orig: 173, 197
+  offset: 0, 0
+  index: -1
+ceinture
+  rotate: true
+  xy: 1372, 108
+  size: 112, 153
+  orig: 112, 153
+  offset: 0, 0
+  index: -1
+cheville
+  rotate: false
+  xy: 1527, 88
+  size: 75, 145
+  orig: 75, 145
+  offset: 0, 0
+  index: -1
+corps
+  rotate: false
+  xy: 1024, 145
+  size: 171, 235
+  orig: 171, 235
+  offset: 0, 0
+  index: -1
+epaule gauche
+  rotate: false
+  xy: 1520, 235
+  size: 138, 145
+  orig: 138, 145
+  offset: 0, 0
+  index: -1
+fx_att-14
+  rotate: false
+  xy: 2, 5
+  size: 862, 690
+  orig: 862, 690
+  offset: 0, 0
+  index: -1
+jambe
+  rotate: true
+  xy: 1197, 80
+  size: 101, 162
+  orig: 101, 162
+  offset: 0, 0
+  index: -1
+main droite
+  rotate: false
+  xy: 1400, 36
+  size: 79, 70
+  orig: 79, 70
+  offset: 0, 0
+  index: -1
+pied
+  rotate: false
+  xy: 1295, 5
+  size: 103, 73
+  orig: 103, 73
+  offset: 0, 0
+  index: -1
+sunWuKong-13
+  rotate: false
+  xy: 866, 382
+  size: 727, 313
+  orig: 727, 313
+  offset: 0, 0
+  index: -1
+tete
+  rotate: false
+  xy: 1372, 222
+  size: 146, 158
+  orig: 146, 158
+  offset: 0, 0
+  index: -1
